@@ -110,6 +110,7 @@ Todo List Home
 ![tasks](readme_assets/allList.PNG)
 Drag a task to order it
 ![dragg](readme_assets/dragtask.png)
+
 ![dragg](readme_assets/listreorder.PNG)
 Filter tasks
 ![filtered](readme_assets/filterLis.PNG)
