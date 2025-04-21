@@ -24,9 +24,24 @@ This project is a To Do List application developed as part of a technical test f
 composer install
 ```
 
+### 2. Create `.env` file
+
+Linux
+
+```bash
+cp .env.example .env
+```
+
+Windows
+
+```bash
+copy .env.example .env
+```
+
 ### 3. Set environment variables
 
 Update your `.env` file in order to connect to your local database:
+Create the database manually or wait to the 5th step
 
 ```
 DB_CONNECTION=mysql
@@ -48,6 +63,8 @@ php artisan key:generate
 ```bash
 php artisan migrate
 ```
+
+Create the database if you dont have it
 
 ### 6. Serve the backend
 
@@ -88,6 +105,20 @@ cd todo-frontend
 
 ```bash
 npm install
+```
+
+### 2. Create `.env` file
+
+Linux
+
+```bash
+cp .env.example .env
+```
+
+Windows
+
+```bash
+copy .env.example .env
 ```
 
 ### 3. Start the development server
