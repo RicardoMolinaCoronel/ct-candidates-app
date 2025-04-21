@@ -100,7 +100,7 @@ The frontend will be available at: http://localhost:3000
 
 ---
 
-## Frontend Sections
+## Frontend Sections and Details
 
 Login route
 ![login](readme_assets/signin.PNG)
@@ -109,10 +109,10 @@ SignUp route
 Todo List Home
 ![tasks](readme_assets/allList.PNG)
 Drag a task to order it
-![dragg](readme_assets/dragtask.PNG)
+![dragg](readme_assets/dragtask.png)
 ![dragg](readme_assets/listreorder.PNG)
 Filter tasks
-![filtered](readme_assets/filterlis.PNG)
+![filtered](readme_assets/filterLis.PNG)
 
 ## Main Functionalities
 
